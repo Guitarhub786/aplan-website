@@ -9,6 +9,3 @@ function logo() {
     console.log(`Letter ${i} is ${logo[i].getTotalLength()}`);
   }
 }
-
-
-
